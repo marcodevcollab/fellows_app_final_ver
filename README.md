@@ -1,1 +1,3 @@
-Here there is an iOS app I realized during the Apple Foundation Program at Unisannio. Fellows is an app that suggests you the best recipes you can make, based on the amount of time you have, your needs and your allergies (if you have one).
+Here there is an iOS app I realized during the Apple Foundation Program at Unisannio.
+
+<strong>Fellows</strong> is an app that suggests you the best recipes you can make, based on the amount of time you have, your needs and your allergies (if you have one).
